@@ -1,2 +1,2 @@
 # sysctl.conf
-our server-side sysctl.conf kernel parameters, as currently deployed
+cryptostorm.is' /etc/sysctl.conf used on the VPN nodes
